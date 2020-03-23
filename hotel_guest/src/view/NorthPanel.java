@@ -24,7 +24,7 @@ public class NorthPanel {
 	public void init() {
 		northPanel.setPreferredSize(new Dimension(980, 120));
 		northPanel.setLayout(null);	
-		
+		/*
 		reception.setBackground(Color.WHITE);
 		
 		
@@ -34,7 +34,7 @@ public class NorthPanel {
 		northPanel.add(query);
 		northPanel.add(statistics);
 		northPanel.add(user);
-		northPanel.add(setting);
+		northPanel.add(setting);*/
 	}
 
 	public JPanel getNorthPanel() {
